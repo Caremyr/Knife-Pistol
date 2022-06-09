@@ -7,6 +7,7 @@ import AVFoundation
 
 //Variabili varie ed eventuali
 let dimSimulazione = CGRect(x: 0, y: 0, width: 640, height: 360)
+let dimDialogueBox = CGRect(x: 15, y: 160, width: 640, height: 220)
 let dimBarra = CGRect(x: 60, y: 160, width: 640, height: 220)
 let coloreBackTesto = UIColor(white: 0, alpha: 0)
 var flag = 0
@@ -39,6 +40,7 @@ class PrologueController: UIViewController{
     let nextButton = UIButton()
     let testo = UITextView()
     let sfondoNero = UITextView()
+    
     
     //Definizione loadView
     override func loadView() {
