@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw' buildActiveScheme='true' executeOnSourceChanges='true' importAppTypes='true'>
+    <pages>
+        <page name='Prologue'/>
+        <page name='Chapter1'/>
+        <page name='Chapter2'/>
+        <page name='Chapter3'/>
+    </pages>
+</playground>
